@@ -36,18 +36,18 @@ Adisyon (fiş) oluşturma
 
 🚀 Kurulum ve Çalıştırma
 Repoyu klonlayın:
-git clone https://github.com/20247170027/NesneDayaliProgramlama.git
+git clone https://github.com/davutcankizilkaya/NesneDayaliProgramlama.git
 Projeyi çalıştırın (C# için):
 Projeyi Visual Studio veya Visual Studio Code ile açın
 .csproj dosyasını seçerek projeyi başlatın
 veya terminal üzerinden çalıştırmak için:
 dotnet run
-git clone https://github.com/20247170027/NesneDayaliProgramlama.git
+git clone https://github.com/davutcankizilkaya/NesneDayaliProgramlama.git
 
 🛠️ Kullanılan Teknolojiler:
 -C#
 
 ✍️ Geliştirici:
 -Davut Can Kızılkaya  
--GitHub: https://github.com/20247170027
+-GitHub: https://github.com/davutcankizilkaya
 
