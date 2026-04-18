@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|c:\\users\\davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|solutionrelative:kaps\u00FClleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|solutionrelative:kaps\u00FClleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|c:\\users\\davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\kisilerbilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|solutionrelative:kaps\u00FClleme\\kisilerbilgiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|c:\\users\\davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\hesapbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC99819A-3268-70F8-7F9B-0A3B4BE206E3}|kaps\u00FClleme\\kaps\u00FClleme.csproj|solutionrelative:kaps\u00FClleme\\hesapbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\Form1.cs",
+              "RelativeDocumentMoniker": "kaps\u00FClleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\Form1.cs [Design]",
+              "RelativeToolTip": "kaps\u00FClleme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T16:09:09.29Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\Form1.cs",
+              "RelativeDocumentMoniker": "kaps\u00FClleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\Form1.cs",
+              "RelativeToolTip": "kaps\u00FClleme\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:06:58.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KisilerBilgiler.cs",
+              "DocumentMoniker": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\KisilerBilgiler.cs",
+              "RelativeDocumentMoniker": "kaps\u00FClleme\\KisilerBilgiler.cs",
+              "ToolTip": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\KisilerBilgiler.cs",
+              "RelativeToolTip": "kaps\u00FClleme\\KisilerBilgiler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:19:35.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HesapBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\HesapBilgileri.cs",
+              "RelativeDocumentMoniker": "kaps\u00FClleme\\HesapBilgileri.cs",
+              "ToolTip": "C:\\Users\\Davut\\source\\repos\\kaps\u00FClleme\\kaps\u00FClleme\\HesapBilgileri.cs",
+              "RelativeToolTip": "kaps\u00FClleme\\HesapBilgileri.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:25:08.95Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
