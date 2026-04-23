@@ -1,0 +1,14 @@
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.AssemblyInfoInputs.cache
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.AssemblyInfo.cs
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.csproj.CoreCompileInputs.cache
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\bin\Debug\net10.0\kalitimDers.exe
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\bin\Debug\net10.0\kalitimDers.deps.json
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\bin\Debug\net10.0\kalitimDers.runtimeconfig.json
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\bin\Debug\net10.0\kalitimDers.dll
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\bin\Debug\net10.0\kalitimDers.pdb
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.dll
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\refint\kalitimDers.dll
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.pdb
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\kalitimDers.genruntimeconfig.cache
+C:\Users\Davut\source\repos\kalitimDers\kalitimDers\obj\Debug\net10.0\ref\kalitimDers.dll
