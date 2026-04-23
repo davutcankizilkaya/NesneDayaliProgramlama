@@ -1,0 +1,16 @@
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\bin\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.exe
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\bin\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.deps.json
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\bin\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.runtimeconfig.json
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\bin\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.dll
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\bin\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.pdb
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.Form1.resources
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.csproj.GenerateResource.cache
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.AssemblyInfoInputs.cache
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.AssemblyInfo.cs
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.csproj.CoreCompileInputs.cache
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.dll
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\refint\ders1_ornek2_finalcalismasi.dll
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.pdb
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ders1_ornek2_finalcalismasi.genruntimeconfig.cache
+C:\Users\Davut\source\repos\ders1_ornek2_finalcalismasi\ders1_ornek2_finalcalismasi\obj\Debug\net10.0-windows\ref\ders1_ornek2_finalcalismasi.dll
