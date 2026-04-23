@@ -1,0 +1,16 @@
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.Form1.resources
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.csproj.GenerateResource.cache
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.AssemblyInfoInputs.cache
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.AssemblyInfo.cs
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.csproj.CoreCompileInputs.cache
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\bin\Debug\net10.0-windows\Ders1_Finalcalismasi.exe
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\bin\Debug\net10.0-windows\Ders1_Finalcalismasi.deps.json
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\bin\Debug\net10.0-windows\Ders1_Finalcalismasi.runtimeconfig.json
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\bin\Debug\net10.0-windows\Ders1_Finalcalismasi.dll
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\bin\Debug\net10.0-windows\Ders1_Finalcalismasi.pdb
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.dll
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\refint\Ders1_Finalcalismasi.dll
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.pdb
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\Ders1_Finalcalismasi.genruntimeconfig.cache
+C:\Users\Davut\source\repos\Ders1_Finalcalismasi\Ders1_Finalcalismasi\obj\Debug\net10.0-windows\ref\Ders1_Finalcalismasi.dll
